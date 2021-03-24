@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="generateService" value="true" />
+        <option name="javaMapperPackage" value="com.deso.mapper" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/src/main/java" />
+        <option name="javaModelPackage" value="com.deso.domain" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="untitled" />
+        <option name="mapperAnnotaion" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="untitled">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.deso.mapper" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/src/main/java" />
+                  <option name="javaModelPacakge" value="com.deso.domain" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/src/main/java" />
+                  <option name="javaServicePackage" value="com.deso.service" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/src/main/java" />
+                  <option name="xmlPackage" value="mapperxml" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="my_db:advisor">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Advisor" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:classroom">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Classroom" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:course">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Course" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:department">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Department" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:instructor">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Instructor" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:my_tb">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="m_id" />
+                  <option name="javaModelName" value="MyTb" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:myt_tb">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="MytTb" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:prereq">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Prereq" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:section">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Section" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:student">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Student" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:takes">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Takes" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:teaches">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Teaches" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:test_tb">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="TestTb" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:time_slot">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="TimeSlot" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:user_tb">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="user_id" />
+                  <option name="javaModelName" value="UserTb" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:viewtest">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Viewtest" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:viewttest">
+              <value>
+                <TableGenerateConfig>
+                  <option name="javaModelName" value="Viewttest" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+            <entry key="my_db:worker_tb">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="work_id" />
+                  <option name="javaModelName" value="WorkerTb" />
+                  <option name="moduleName" value="untitled" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="xmlMapperPackage" value="mapperxml" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
