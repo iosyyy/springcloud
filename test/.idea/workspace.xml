@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90dea7ef-c6a5-4e62-8da8-8ee1cb13d1a5" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/coustomer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coustomer/src/main/java/com/jhx/coustomer/CoustomerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coustomer/src/main/java/com/jhx/coustomer/po/MyTb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coustomer/src/main/java/com/jhx/coustomer/po/ResultMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coustomer/src/main/java/com/jhx/coustomer/web/GetMyTb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coustomer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/euraka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/euraka/src/main/java/com/jhx/euraka/EurakaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/euraka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payment/src/main/java/com/jhx/payment/PaymentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled5/current/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled5/current/src/main/java/com/jhx/demo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled5/current/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled5/current/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled5/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90dea7ef-c6a5-4e62-8da8-8ee1cb13d1a5" name="默认变更列表" comment="#init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,8 +186,23 @@
       <workItem from="1616564953846" duration="1537000" />
       <workItem from="1616567120089" duration="357000" />
       <workItem from="1616579663409" duration="353000" />
-      <workItem from="1616582468226" duration="555000" />
+      <workItem from="1616582468226" duration="855000" />
     </task>
+    <task id="LOCAL-00001" summary="#init">
+      <created>1616583061757</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616583061757</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#init">
+      <created>1616583159706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616583159706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +219,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#init" />
+    <option name="LAST_COMMIT_MESSAGE" value="#init" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
